@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
 
-# Project Title
+# Protocol Title
 
 <!-- Add buttons here -->
 
