@@ -1,18 +1,20 @@
 <!-- Add banner here -->
 
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
+![Header](images/readme-header.jpg)
+
 
 # Protocol Title
 
 <!-- Add buttons here -->
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/yohangglobal/protocol-readme?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/yohangglobal/protocol-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/yohangglobal/protocol-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yohangglobal/protocol-readme)
+![GitHub](https://img.shields.io/github/license/yohangglobal/protocol-readme)
 
-<!-- Describe your project in brief -->
+## Description
+>Explain what your protocol does
 
 The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
@@ -173,4 +175,4 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+![Footer](images/readme-footer.jpg)
