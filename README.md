@@ -48,7 +48,6 @@ With a protocol-focused README guide, your team can benefit from an increase of 
 - [License](#license)
 - [Footer](#footer)
 
-
 ## Description
 >Explain what your protocol does
 
