@@ -2,8 +2,7 @@
 
 ![Header](images/readme-header.jpg)
 
-
-# Protocol Title
+# A README for any Protocol
 
 <!-- Add buttons here -->
 
@@ -12,6 +11,43 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/yohangglobal/protocol-readme)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yohangglobal/protocol-readme)
 ![GitHub](https://img.shields.io/github/license/yohangglobal/protocol-readme)
+
+## Description
+
+>Start off your README by giving a summary of what this product does.
+
+This guide focuses on creating an easy-to-use template for protocols as they launch new products.
+
+When a project wants to have a public display of how to get started with their protocol, a lot of topics/concepts might overwhelm new users.
+
+However, developers need to spend their time on building the products we enjoy, not wasting away at organizing every guide.
+
+With a protocol-focused README guide, your team can benefit from an increase of productivity as users will be able to easily follow what you are building. They will also learn the ins and outs of your project as they read!
+
+### Highlights
+
+>Provide a small tldr for what this README will accomplish.
+
+- A simple method for writing out docs.
+- Frees up time for both devs and new users.
+- Allows for cross-posting on HackMD, Obsidian, or other sites using Markdown.
+- Shows you extra features that you can include into old READMEs.
+
+# Table of Contents
+
+- [A README for any Protocol](#a-readme-for-any-protocol)
+    - [Description](#description)
+        - [Highlights](#highlights)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contribute](#contribute)
+    - [Sponsor](#sponsor)
+    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
+- [License](#license)
+- [Footer](#footer)
+
 
 ## Description
 >Explain what your protocol does
