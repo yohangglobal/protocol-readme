@@ -6,11 +6,16 @@
 
 <!-- Add buttons here -->
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/yohangglobal/protocol-readme?include_prereleases)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/yohangglobal/protocol-readme)
 ![GitHub issues](https://img.shields.io/github/issues-raw/yohangglobal/protocol-readme)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yohangglobal/protocol-readme)
 ![GitHub](https://img.shields.io/github/license/yohangglobal/protocol-readme)
+
+
+![Discord](https://img.shields.io/discord/814256366067253268) 
+[![Research Database](https://img.shields.io/badge/Research-Database-purple)](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09)  
+[![Contact](https://img.shields.io/badge/Contact-yohangg%40ggcapital.io-purple)](mailto:yohangg@ggcapital.io)
 
 ## Description
 
