@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-![Header](images/readme-header.jpg)
+![Header](assets/readme-header.jpg)
 
 # A README for any Protocol
 
@@ -215,4 +215,4 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-![Footer](images/readme-footer.jpg)
+![Footer](assets/readme-footer.jpg)
